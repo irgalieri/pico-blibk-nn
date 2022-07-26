@@ -1,3 +1,0 @@
-/home/pi/working-copy/pico-blink-nn/build/pioasm/CMakeFiles/rebuild_cache.dir
-/home/pi/working-copy/pico-blink-nn/build/pioasm/CMakeFiles/edit_cache.dir
-/home/pi/working-copy/pico-blink-nn/build/pioasm/CMakeFiles/pioasm.dir
